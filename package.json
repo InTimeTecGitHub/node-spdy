@@ -39,7 +39,7 @@
     "http-deceiver": "^1.2.7",
     "safe-buffer": "^5.0.1",
     "select-hose": "^2.0.0",
-    "itt-spdy-transport": "^2.1.1"
+    "itt-spdy-transport": "^2.1.3"
   },
   "devDependencies": {
     "istanbul": "^0.4.5",
