@@ -1,7 +1,7 @@
 {
-  "name": "spdy",
-  "version": "3.4.7",
-  "description": "Implementation of the SPDY protocol on node.js.",
+  "name": "itt-spdy",
+  "version": "3.4.8",
+  "description": "Forked from spdy Implementation of the SPDY protocol on node.js.",
   "license": "MIT",
   "scripts": {
     "lint": "standard",
@@ -39,7 +39,7 @@
     "http-deceiver": "^1.2.7",
     "safe-buffer": "^5.0.1",
     "select-hose": "^2.0.0",
-    "spdy-transport": "^2.0.18"
+    "itt-spdy-transport": "^2.1.1"
   },
   "devDependencies": {
     "istanbul": "^0.4.5",
